@@ -1,7 +1,7 @@
 {
   "name": "PermyBot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This bot is used to manage roles on the BYU-I Programming Discord Server. It will be open source to create as much visibility as possible",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
