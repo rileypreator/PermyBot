@@ -1,5 +1,5 @@
 {
-  "name": "PermyBot",
+  "name": "permybot",
   "version": "1.0.0",
   "description": "This bot is used to manage roles on the BYU-I Programming Discord Server. It will be open source to create as much visibility as possible",
   "main": "main.js",
